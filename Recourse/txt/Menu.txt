@@ -1,0 +1,8 @@
+Chicken fired
+4.50
+Sushi
+8.50
+Hamburger
+8.80
+Tempura
+10.55
